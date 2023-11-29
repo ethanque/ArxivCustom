@@ -5,11 +5,15 @@ import urllib.parse
 # Authors and Abstracts definitions
 authors_terms = [
     'LastName, FirstName',
+    'Ccc, Aaa B',
+    'AnotherLastName, AnotherFirstName M I'
 ]
 authors_field_type = 'author'
 
 abstracts_terms = [
-    '"Exact Term In Quotes"',
+    '"Exact term in quotes"',
+    '"Burgeoning subfield"',
+    '"Exciting topic"'
 ]
 abstracts_field_type = 'abstract'
 
